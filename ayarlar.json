@@ -1,0 +1,29 @@
+{
+	"token": "MTA5NDYwMzk1NTYzNzYwNDQ5NA.GDa5M6.q6sgR63k4n5wwkX6ZJmduGm4UYaw4lMnyd2Wtk",
+	"guildID": "1095228614607372318",
+	"roleID": "1095229208042680440",
+        "roleID1": "1095229208042680440",
+        "roleID2": "1095229208042680440",
+        "roleID3": "1095229208042680440",
+        "roleID4": "1095229208042680440",
+        "roleID5": "1095229208042680440",
+        "roleID6": "1095229208042680440",
+        "roleID7": "1095229208042680440", 
+	"ownerID": {
+        "ownerID1": "1094024611500404776",
+        "ownerID2": "1063736409049006151"
+    },
+	"commandroom": "1095262163599380491",
+        "guildID1": "1095228614607372318",
+	"versionbot": "CGB X TKP",
+        "versionbot1": "CGB X TKP",
+	"img": "https://media.discordapp.net/attachments/1043734334462513223/1047163178292887582/1ED44239-60BE-46B0-B1A0-33A661CBE232.jpg?width=665&height=662",
+	"photovip": ["https://media1.giphy.com/media/eSPEwBxWml5O8OZQAD/giphy.gif?cid=ecf05e47n7y42oi5ht6qk2m64g4dywht4epj2hscw0r3mk4m&rid=giphy.gif&ct=g"],
+        "photovip1": ["https://media0.giphy.com/media/2SvePlXEmRak8/giphy.gif?cid=ecf05e47dlcd1zjo068tk28qxdngposkt4b42f7696cs0cdu&rid=giphy.gif&ct=g"],
+        "photovip2": ["https://media0.giphy.com/media/jjl8k7kJjJUis/giphy.gif?cid=ecf05e47s3y0s21z6lkhmviueuyd1ngdaop8249rkztxtlxp&rid=giphy.gif&ct=g"],
+        "photovip3": ["https://media3.giphy.com/media/vdjh02z3G0IvZRuzAA/giphy.gif?cid=ecf05e4703fo2lqlavhmy29xyhiufsz0keyweugjj6jj5r43&rid=giphy.gif&ct=g"],
+        "photovip4": ["https://media2.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif?cid=ecf05e47gtxeyjbo9zazna71r3o1u15nhdej3jbaq92qq6ov&rid=giphy.gif&ct=g"],
+        "photovip5": ["https://i.pinimg.com/originals/f9/85/a8/f985a8c4070a13eb3092a79f51d1fa5a.gif"],
+        "photovip11": [""],
+	"mongodb": "mongodb+srv://HyuXingum:Bumbobi2008!@huyxingum.v5rflcb.mongodb.net/?retryWrites=true&w=majority"
+}
